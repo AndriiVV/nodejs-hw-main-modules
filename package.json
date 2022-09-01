@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-main-modules-test",
+  "version": "1.0.0",
+  "description": "Node JS learning",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiVV/nodejs-hw-main-modules.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Andrii Vinnykov <andrey.vinnikov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiVV/nodejs-hw-main-modules/issues"
+  },
+  "homepage": "https://github.com/AndriiVV/nodejs-hw-main-modules#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
